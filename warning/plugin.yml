@@ -1,0 +1,14 @@
+name: Warning
+main: me.bl0m1.warning.warningmain
+version: 1.0
+Author: bl0m1 & AltoXn
+description: Warning, A simple warning system.
+commands:
+  warn:
+    description: Warn a player.
+    
+    
+permissions:
+  warn.check.self:
+    description: Allow the player to check himself
+    default: true
